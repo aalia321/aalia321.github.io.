@@ -1,0 +1,62 @@
+ <head>
+	<title> Aalia's E-portfolio </title>
+    </head>
+    <body>
+    <!-- Aalia Mohammad -->
+    <style type="text/css">
+    div {
+    width: 600px;
+    padding: 20px;
+    border: 5px solid black;
+    margin: 0px;
+    background-color: #F7F6B3;
+    }
+
+    </style>
+    <font face="Verdana">
+
+    <body background="blue design.jpg">
+
+    <div style="position:fixed;left:350px;">
+    <marquee style="font-size:40pt;"scrollamount="10" direction="right"
+    behavior="alternate"><b>Aalia's E-portfolio</b></marquee>
+    </div>
+    <font face="Arial Black">
+    <div style="position:fixed;left:350px;top:150px;width:300px;height:200px;">
+    <img src="mickey mouse.png" width="170" height="250"
+    style="position:fixed;top:150px;right:1100px;">
+    <head><font size="+3"> Posters </font><head>
+    <p> Made BLM poster using powerpoint to raise awareness,
+        as well as a King Kong poster of King Kong hanging of the 
+        eiffel tower.
+     </p>
+    </div>
+
+    <div style="position:fixed;left:950px;top:150px;width:300px;height:200px;">
+    <img src="BLM.jpg" width="200" height="250"
+    style="position:fixed;top:150px;right:500px;">
+    <head><font size="+3">  </font><head>
+    <p> My favorite ice cream is from La Casa Gelato right here in Vancouver!
+        Click here for directions.
+        <a href="https://www.google.com/maps/place/La+Casa+Gelato/@49.2770652,-123.0838258,17z/data=!3m1!4b1!4m5!3m4!1s0x5486716b0ebd5c7d:0x25948eb869ab17d4!8m2!3d49.2770652!4d-123.0816371">detailed directions</a>.
+ </p>
+    </div>
+
+    <div style="positon:fixed;left:350px;top:450px;width:300px;height:200px;">
+    <img src="kingkong.jpg" width="170" height="250"
+    style="position:fixed;top:400;right:900px;">
+    <head><font size="+3">  </font><head>
+    <p> Wanna have the best and most refreshing smoothie ever!? check out my website! click here for directions  <a href="file:///C:/Users/aalia/Documents/IT/v20.html">detailed directions</a>.</p>
+    </div>
+    
+
+    <div style="positon:fixed;left:950px;top:450px;width:300px;height:200px;">
+    <img src="la casa gelato.png" width="250" height="350"
+    style="position:fixed;top:299;right:100px;">
+    <head><font size="+3">  </font><head>
+    <p>  </p>
+    </div>
+    </body>
+</html>
+
+
